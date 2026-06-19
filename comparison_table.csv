@@ -1,0 +1,5 @@
+Configuration,Accuracy,F1 (macro),F1 (weighted),Precision(mac),Recall(macro),Train Time(s),Infer Time(s)
+Logistic Regression + BoW,1.0,1.0,1.0,1.0,1.0,0.0531,0.000463
+Logistic Regression + TF-IDF,1.0,1.0,1.0,1.0,1.0,0.1086,0.000454
+Naive Bayes + BoW,1.0,1.0,1.0,1.0,1.0,0.0076,0.00045
+Naive Bayes + TF-IDF,1.0,1.0,1.0,1.0,1.0,0.0031,0.000353

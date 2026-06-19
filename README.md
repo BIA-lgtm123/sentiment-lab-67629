@@ -24,3 +24,7 @@ Dataset: 600 samples, 3 classes (Contract Dispute, IP Claim, Regulatory Complian
 
 ## Tools Used
 Python, scikit-learn, MLflow, Google Colab
+## Preprocessing Pipeline
+- HTML removal, lowercase, punctuation removal
+- Stopword filtering
+- BoW and TF-IDF feature extraction (max 5000 features)

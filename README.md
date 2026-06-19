@@ -27,6 +27,7 @@ Python, scikit-learn, MLflow, Google Colab
 ## Preprocessing Pipeline
 - HTML removal, lowercase, punctuation removal
 - Stopword filtering
+Part 4: Notebook and requirements added
 - BoW and TF-IDF feature extraction (max 5000 features)
 ## Hyperparameter Search
 - C values tested: 0.01, 0.1, 0.5, 1.0, 5.0, 10.0, 50.0
